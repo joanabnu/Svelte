@@ -4,7 +4,7 @@
 
 <footer class="bg-white dark:bg-gray-900">
     <div class="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
-        <a href="#">
+        <a href="/">
             <img class="w-auto h-7" src="google.png" alt="">
         </a>
 
@@ -13,8 +13,7 @@
         <div class="flex -mx-2">
     
 
-            <a href=" https://www.linkedin.com/in/joana-luz-794634171
-" class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400" aria-label="Linkedln">
+            <a href="https://www.linkedin.com/in/joana-luz-794634171/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400" aria-label="Linkedln">
               <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.762 2.239 5 5 5h14c2.762 0 5-2.238 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-10h3v10zm-1.5-11.269c-.966 0-1.75-.784-1.75-1.75s.784-1.75 1.75-1.75 1.75.784 1.75 1.75-.784 1.75-1.75 1.75zm13.5 11.269h-3v-5.604c0-1.338-.027-3.062-1.866-3.062-1.867 0-2.154 1.459-2.154 2.969v5.697h-3v-10h2.881v1.367h.041c.401-.759 1.379-1.559 2.838-1.559 3.034 0 3.594 1.996 3.594 4.59v5.602z"/>
     </svg>
