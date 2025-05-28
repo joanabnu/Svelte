@@ -2,6 +2,11 @@
   import "../app.css"; 
   import Button from '$lib/Button.svelte'; 
   import Teste from '$lib/Teste.svelte'
+
+  import {name} from '$lib/store'
+
+
+   
   const lista = [
     'Joana',
     'Maria',
@@ -24,7 +29,7 @@ for(let nome of lista){
 </script>
 
 <h1>Meu site / Inicio</h1>
-{#if idade == 24}
+ {#if idade == 24}
  <p>Idade é 24</p>
 {/if}
 
@@ -34,13 +39,15 @@ for(let nome of lista){
 
 {#each elementos as item}
 <p>{item.nome}  tem {item.idade} anos</p>
-{/each}
+{/each} 
 
-<!-- <Button label="clique aqui"></Button>
-<Button label="clique 2"></Button> -->
-<!-- <Teste/> -->
-<!-- <div>
+<Button label="clique aqui"></Button>
+<Button label="clique 2"></Button> 
+ <Teste/> 
+<div>
   <h1 class="text-4xl font-bold text-blue-600 bg-gray-100 p-6 rounded-lg">
     Se isso aparecer azul, Tailwind está ok!
   </h1>
-</div> -->
+</div> 
+
+<!-- {$name} -->

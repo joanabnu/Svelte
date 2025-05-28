@@ -1,4 +1,5 @@
     <script>
+  import { page } from "$app/state"
         import Logo from "$lib/Logo.svelte";
         const itens = [
             {href: '/', label:'Home'},
@@ -7,6 +8,9 @@
             {href: '/contato', label:'Contato'},
             {href: '/faq', label:'Perguntas Frequentes'},
         ]
+       
+    
+
     </script>    
         
         <a href="/">
