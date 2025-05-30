@@ -1,8 +1,8 @@
 <script>
     const items = [
-        {title:' Item 1',category:'Components',image:''},
-        {title:' Item 1',category:'Components',image:''},
-        {title:' Item 1',category:'Components',image:''}
+        {title:' Item 1',category:'Components 1',image:'/images.png'},
+        {title:' Item 2',category:'Components 2',image:'/images.png'},
+        {title:' Item 3',category:'Components 3',image:'/images.png'}
 ];
 </script>
 <section class="bg-white dark:bg-gray-900">
